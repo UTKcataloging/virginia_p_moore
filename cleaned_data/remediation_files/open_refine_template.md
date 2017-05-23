@@ -11,7 +11,7 @@
 
 ```
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-<identifier type="local">{{cells['identifier_file'].vlaue}}</identifier>
+<identifier type="local">{{cells['identifier_file'].value}}</identifier>
 <titleInfo>
 <nonSort>{{cells['title_initial_article'].value}}</nonSort>
 <title>{{cells['title'].value}}</title>
@@ -20,7 +20,16 @@
 <name {{if(cells['rights_holder_name_authority'].value == 'naf', 'authority="naf" type="personal" valueURI="http://id.loc.gov/authorities/names/no00073285"', '')}}><namePart>{{cells['rights_holder_name'].value}}</namePart>
 <role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name>
 <typeOfResource>{{cells['item_type'].value}}</typeOfResource>
-<originInfo><dateCreated encoding="edtf" keyDate="yes" {{if(cells['date_qualifier'].value != 'ignore', 'qualifier="' + cells['date_qualifier'].value + '"', '')}}>{{cells['date_key'].value}}</dateCreated></originInfo>
+<originInfo>
+<dateCreated encoding="edtf" keyDate="yes">{{cells['date_key'].value}}</dateCreated>
+<dateCreated {{if(cells['date_qualifier'].value != 'ignore', 'qualifier="' + cells['date_qualifier'].value + '"', '')}}>{{cells['date_text'].value}}</dateCreated>
+</originInfo>
+<physicalDescription><form authority="aat" authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/" valueURI="{{cells['form_URI'].value}}" >{{cells['form'].value}}</form></physicalDescription>
+<relatedItem displayLabel="Project" type="host">
+<titleInfo><title>{{cells['collection'].value}}</title></titleInfo>
+<identifier>{{cells['collection_identifier'].value}}</identifier>
+</relatedItem>
+
 </mods>
 ```
 
