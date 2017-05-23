@@ -29,6 +29,10 @@
 <titleInfo><title>{{cells['collection'].value}}</title></titleInfo>
 <identifier>{{cells['collection_identifier'].value}}</identifier>
 </relatedItem>
+<name {{if(cells['name_authority'].value != "IGNORE", 'authority="' + cells['name_authority'].value +'"', '')}} {{if(cells['name_uri'].value != "IGNORE", 'valueURI="' + cells['name_uri'].value +'"', '')}} {{if(cells['name_type'].value != "IGNORE", 'type="' + cells['name_type'].value +'"', '')}} ><namePart>{{if(cells['name'].value != "IGNORE", cells['name'].value, '')}}</namePart><role {{if(cells['name_role_uri'].value != "IGNORE", 'authority="marcrelators" valueURI="' + cells['name_authority'].value +'"', '')}}><roleTerm>{{if(cells['name_role'].value != "IGNORE", cells['name_role'].value, '')}}</roleTerm></role></name>
+
+
+{{if(cells['name'].value != "IGNORE", '<name' + if(cells['name_authority'].value != "IGNORE", ' authority="' + cells['name_authority'].value +'"', '') + if(cells['name_uri'].value != "IGNORE", ' valueURI="' + cells['name_uri'].value +'"', '') + if(cells['name_type'].value != "IGNORE", ' type="' + cells['name_type'].value +'"', '') + "><namePart>" + if(cells['name'].value != "IGNORE", cells['name'].value, '') + "</namePart><role" + if(cells['name_role_uri'].value != "IGNORE", ' authority="marcrelators" valueURI="' + cells['name_role_uri'].value +'"', '') + "><roleTerm>" + if(cells['name_role'].value != "IGNORE", cells['name_role'].value, '') + "</roleTerm></role></name>", '')}}
 
 </mods>
 ```
