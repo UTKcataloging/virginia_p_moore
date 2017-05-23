@@ -29,7 +29,8 @@
 <titleInfo><title>{{cells['collection'].value}}</title></titleInfo>
 <identifier>{{cells['collection_identifier'].value}}</identifier>
 </relatedItem>
-{{if(cells['name'].value != "IGNORE", '<name' + if(cells['name_authority'].value != "IGNORE", ' authority="' + cells['name_authority'].value +'"', '') + if(cells['name_uri'].value != "IGNORE", ' valueURI="' + cells['name_uri'].value +'"', '') + if(cells['name_type'].value != "IGNORE", ' type="' + cells['name_type'].value +'"', '') + "><namePart>" + if(cells['name'].value != "IGNORE", cells['name'].value, '') + "</namePart><role" + if(cells['name_role_uri'].value != "IGNORE", ' authority="marcrelators" valueURI="' + cells['name_role_uri'].value +'"', '') + "><roleTerm>" + if(cells['name_role'].value != "IGNORE", cells['name_role'].value, '') + "</roleTerm></role></name>", '')}}
+{{if(cells['name'].value != "IGNORE", '<name' + if(cells['name_authority'].value != "IGNORE", ' authority="' + cells['name_authority'].value +'"', '') + if(cells['name_uri'].value != "IGNORE", ' valueURI="' + cells['name_uri'].value +'"', '') + if(cells['name_type'].value != "IGNORE", ' type="' + cells['name_type'].value +'"', '') + "><namePart>" + if(cells['name'].value != "IGNORE", cells['name'].value, '') + "</namePart><role><roleTerm" + if(cells['name_role_uri'].value != "IGNORE", ' authority="marcrelators" valueURI="' + cells['name_role_uri'].value +'"', '') + "><roleTerm>" + if(cells['name_role'].value != "IGNORE", cells['name_role'].value, '') + "</roleTerm></role></name>", '')}}
+{{if(cells['name2'].value != "IGNORE", '<name' + if(cells['name_type2'].value != "IGNORE", ' type="' + cells['name_type2'].value +'"', '') + "><namePart>" + if(cells['name2'].value != "IGNORE", cells['name2'].value, '') + '</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/isb">Issuing body</roleTerm></role></name>', '')}}
 
 </mods>
 ```
