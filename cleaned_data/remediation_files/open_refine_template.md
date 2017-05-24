@@ -45,8 +45,8 @@
 <subject><geographic>{{cells['subject_geographic'].value}}</geographic></subject>
 <subject><geographic>{{cells['subject_geographic2'].value}}</geographic></subject>
 <subject><geographic>{{cells['subject_geographic3'].value}}</geographic></subject>
-<subject><name>{{cells['subject_name'].value}}</name></subject>
-<subject><name>{{cells['subject_name2'].value}}</name></subject>
+<subject><name><namePart>{{cells['subject_name'].value}}</namePart></name></subject>
+<subject><name><namePart>{{cells['subject_name2'].value}}</namePart></name></subject>
 <subject><topic>{{cells['subject_topic'].value}}</topic></subject>
 <subject><topic>{{cells['subject_topic1'].value}}</topic></subject>
 <subject><topic>{{cells['subject_topic2'].value}}</topic></subject>
