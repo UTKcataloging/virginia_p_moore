@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003912_000032</identifier>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">191u</dateCreated>
+      <dateCreated>unknown</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat"
+            authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/"
+            valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Virginia P. Moore Collection</title>
+      </titleInfo>
+      <identifier>MS.3821</identifier>
+   </relatedItem>
+   <name type="personal">
+      <namePart>Sauer</namePart>
+      <role>
+         <roleTerm authority="marcrelators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <abstract>Front caption handwritten in ink reads "Tennessee V. P. Moore." Virginia P. Moore sits on the side of the automobile wearing a dark hat and skirt. Back caption handwritten along lefthand side in pencil reads "Henry Co. Tennessee Tomato Club Rally Day." Additional information handwritten in ink includes "Early work in Tenn."; "Virginia P. Moore State Agent Tennessee 1911-1919"; and "Return to Virginia P. Moore, Ext. Dept. F. S. C. W., Tallahassee, Fla." Stamped in ink on the back is "Made by The Sauer Studio Paris, Tenn. Successor to The Fox Studio"</abstract>
+   <physicalDescription>
+      <extent>1 photograph, black and white, 12 x 17.5 cm.</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <subject>
+      <geographic>Henry County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+      </name>
+   </subject>
+   <subject>
+      <topic>Girls</topic>
+   </subject>
+   <subject>
+      <topic>Parades &amp; processions</topic>
+   </subject>
+   <subject>
+      <topic>Girls -- Societies and clubs</topic>
+   </subject>
+   <subject>
+      <topic>Parades</topic>
+   </subject>
+   <subject>
+      <topic>Agricultural education -- Societies, etc.</topic>
+   </subject>
+</mods>

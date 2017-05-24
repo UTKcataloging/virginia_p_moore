@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003912_000014</identifier>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">191u</dateCreated>
+      <dateCreated>unknown</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat"
+            authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/"
+            valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Virginia P. Moore Collection</title>
+      </titleInfo>
+      <identifier>MS.3821</identifier>
+   </relatedItem>
+   <name type="personal">
+      <namePart>Stokes</namePart>
+      <role>
+         <roleTerm authority="marcrelators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <abstract>Devised title from the signage in the photograph above the shop. Photograph of two Hamilton County club girls standing with exhibit of canned produce and baked goods. "Stokes Chattanooga" stamped on the photo's lower right corner. Back caption (handwritten in black ink, "For Miss V. P. Moore, from Elizabeth [illegible] Chattanooga Tn."</abstract>
+   <physicalDescription>
+      <extent>1 photograph, black and white, 19 x 24 cm.</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <subject>
+      <geographic>Hamilton County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <topic>Women</topic>
+   </subject>
+   <subject>
+      <topic>Girls</topic>
+   </subject>
+   <subject>
+      <topic>Stores &amp; shops</topic>
+   </subject>
+   <subject>
+      <topic>Canned foods</topic>
+   </subject>
+   <subject>
+      <topic>Baked products</topic>
+   </subject>
+   <subject>
+      <topic>Canning &amp; preserving</topic>
+   </subject>
+   <subject>
+      <topic>Canning and preserving -- Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Girls -- Societies and clubs</topic>
+   </subject>
+   <subject>
+      <topic>Agricultural education -- Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Home demonstration work -- History</topic>
+   </subject>
+</mods>

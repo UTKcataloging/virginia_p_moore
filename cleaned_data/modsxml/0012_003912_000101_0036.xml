@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003912_000101_0036</identifier>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no00073285"
+         type="personal">
+      <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph"
+                   type="text">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">1912</dateCreated>
+      <dateCreated qualifier="approximate">circa 1912</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat"
+            authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/"
+            valueURI="http://vocab.getty.edu/aat/300027341">scrapbooks</form>
+   </physicalDescription>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Virginia P. Moore Collection</title>
+      </titleInfo>
+      <identifier>MS.3821</identifier>
+   </relatedItem>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no00073285"
+         type="personal">
+      <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+      <role>
+         <roleTerm authority="marcrelators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <abstract>Title from caption. A scrapbook page with one photograph showing a club girl, Vera Monday of Knox County, standing in her garden plot holding a basket.</abstract>
+   <physicalDescription>
+      <extent>1 photograph on 1 scrapbook page, black and white</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <genre authority="lcgft"
+          authorityURI="http://id.loc.gov/authorities/genreForms"
+          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026173">Scrapbooks</genre>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <subject>
+      <geographic>Knox County (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <topic>Girls</topic>
+   </subject>
+   <subject>
+      <topic>Gardening</topic>
+   </subject>
+   <subject>
+      <topic>Gardens</topic>
+   </subject>
+   <subject>
+      <topic>Baskets</topic>
+   </subject>
+   <subject>
+      <topic>Canning and preserving -- Societies, etc.</topic>
+   </subject>
+   <subject>
+      <topic>Girls -- Societies and clubs -- History</topic>
+   </subject>
+   <subject>
+      <topic>Home demonstration work -- History</topic>
+   </subject>
+</mods>

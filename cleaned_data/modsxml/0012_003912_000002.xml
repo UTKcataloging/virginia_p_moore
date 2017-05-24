@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_003912_000002</identifier>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no00073285"
+         type="personal">
+      <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cph"
+                   type="text">Copyright holder</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">1918</dateCreated>
+      <dateCreated>April 5, 1918.</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat"
+            authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/"
+            valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
+   </physicalDescription>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Virginia P. Moore Collection</title>
+      </titleInfo>
+      <identifier>MS.3821</identifier>
+   </relatedItem>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n88156114"
+         type="corporate">
+      <namePart>United States Food Administration</namePart>
+      <role>
+         <roleTerm authority="marcrelators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/isb">Issuing body</roleTerm>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Council of National Defense (Washington, D.C.). Woman's Committee. Tennessee Division.</namePart>
+      <role>
+         <roleTerm authority="marcrelators"
+                   valueURI="http://id.loc.gov/vocabulary/relators/isb">Issuing body</roleTerm>
+      </role>
+   </name>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <abstract>A program booklet printed in black ink with fancy fonts for a luncheon, [organized] by Virginia P Moore as the Home Economics Director, Federal Food Administration for Tennessee and the Food Director, Tennessee Division, Women's Committee, Council of National Defense. Front page includes 'Dr. Anna Howard Shaw, Chairman, Women's Committee National Council Defense, Washington, D.C., Honor Guest.', also the well-known suffragist and a close colleague of Susan B. Anthony. Page [2] includes the luncheon's menu. Page [3] includes the 'toasts' listing of two reports' titles, "Production of food in our homes" and "Conservation of food in our homes' from Women of West, Middle and East Tennessee. The toast mistress is listed as "Home Economics Director, Federal Food Administration for Tennessee, and Food Director, Tennessee Division, Woman's Committee, Council of National Defense", with a handwritten script in pencil of Moore's name under 'Toast Mistress'. Moore wrote with a fountain pen in blue 'see note" on this page. Page [4] Moore's noted in blue ink, "I would not permit my name to appear on the program as no other name appeared. I should have according to Mrs Ida Belle Wilson and others who asked me to do this. Mama wrote my name in. I was well known by the things I represent. Virginia P. Moore, 1918." This luncheon is an evidence of home demonstration agents' contribution to the war effort in lieu of food production and conservation and Tennessee women's connection to the Women's Rights Movement in the United States.</abstract>
+   <physicalDescription>
+      <extent>1 pamphlet (4 pages) ; 18 cm.</extent>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <recordInfo>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <subject>
+      <geographic>Nashville (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic>Tennessee</geographic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Shaw, Anna Howard, 1847-1919</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Moore, Virginia P. (Virginia Pearl)</namePart>
+      </name>
+   </subject>
+   <subject>
+      <topic>Home demonstration work</topic>
+   </subject>
+</mods>
