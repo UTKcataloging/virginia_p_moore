@@ -35,8 +35,33 @@
 <abstract>{{cells['abstract'].value}}</abstract>
 <physicalDescription>
 <extent>{{cells['extent'].value}}</extent>
+<digitalOrigin>reformatted digital</digitalOrigin>
 </physicalDescription>
-<genre authority="lcgft" aurhorityURI="http://id.loc.gov/authorities/genreForms"{{if(cells['genre_URI'].value != 'IGNORE',' valueURI="' + cells['genre_URI'].value+ '"', '')}}> {{cells['genre'].value}} </genre>
+<genre authority="lcgft" aurhorityURI="http://id.loc.gov/authorities/genreForms"{{if(cells['genre_URI'].value != 'IGNORE',' valueURI="' + cells['genre_URI'].value+ '"', '')}}>{{cells['genre'].value}}</genre>
+<language><languageTerm type="code" authority="iso639-2b">{{cells["language"].value}}</languageTerm></language>
+<recordInfo>
+<recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+<languageOfCataloging><languageTerm type="code" authority="iso639-2b">eng</languageTerm></languageOfCataloging>
+<recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+</recordInfo>
+<subject><geographic>{{cells['subject_geographic'].value}}</geographic></subject>
+<subject><geographic>{{cells['subject_geographic2'].value}}</geographic></subject>
+<subject><geographic>{{cells['subject_geographic3'].value}}</geographic></subject>
+<subject><name>{{cells['subject_name'].value}}</name></subject>
+<subject><name>{{cells['subject_name2'].value}}</name></subject>
+<subject><topic>{{cells['subject_topic'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic1'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic2'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic3'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic4'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic5'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic6'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic7'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic8'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic9'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic10'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic11'].value}}</topic></subject>
+<subject><topic>{{cells['subject_topic12'].value}}</topic></subject>
 </mods>
 ```
 
