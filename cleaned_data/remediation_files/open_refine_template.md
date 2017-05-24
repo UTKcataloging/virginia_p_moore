@@ -4,7 +4,7 @@
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
-<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
 ```
 
 ### Row Template
@@ -28,16 +28,14 @@
 <relatedItem displayLabel="Project" type="host">
 <titleInfo><title>{{cells['collection'].value}}</title></titleInfo>
 <identifier>{{cells['collection_identifier'].value}}</identifier>
-</relatedItem>
-{{if(cells['name'].value != "IGNORE", '<name' + if(cells['name_authority'].value != "IGNORE", ' authority="' + cells['name_authority'].value +'"', '') + if(cells['name_uri'].value != "IGNORE", ' valueURI="' + cells['name_uri'].value +'"', '') + if(cells['name_type'].value != "IGNORE", ' type="' + cells['name_type'].value +'"', '') + "><namePart>" + if(cells['name'].value != "IGNORE", cells['name'].value, '') + "</namePart><role><roleTerm" + if(cells['name_role_uri'].value != "IGNORE", ' authority="marcrelators" valueURI="' + cells['name_role_uri'].value +'"', '') + "><roleTerm>" + if(cells['name_role'].value != "IGNORE", cells['name_role'].value, '') + "</roleTerm></role></name>", '')}}
-{{if(cells['name2'].value != "IGNORE", '<name' + if(cells['name_type2'].value != "IGNORE", ' type="' + cells['name_type2'].value +'"', '') + "><namePart>" + if(cells['name2'].value != "IGNORE", cells['name2'].value, '') + '</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/isb">Issuing body</roleTerm></role></name>', '')}}
-<location><physicalLocation>{{cells['repository'].value}}</physicalLocation></location>
+</relatedItem>{{if(cells['name'].value != "IGNORE", '<name' + if(cells['name_authority'].value != "IGNORE", ' authority="' + cells['name_authority'].value +'"', '') + if(cells['name_uri'].value != "IGNORE", ' valueURI="' + cells['name_uri'].value +'"', '') + if(cells['name_type'].value != "IGNORE", ' type="' + cells['name_type'].value +'"', '') + "><namePart>" + if(cells['name'].value != "IGNORE", cells['name'].value, '') + "</namePart><role><roleTerm" + if(cells['name_role_uri'].value != "IGNORE", ' authority="marcrelators" valueURI="' + cells['name_role_uri'].value +'"', '') + "><roleTerm>" + if(cells['name_role'].value != "IGNORE", cells['name_role'].value, '') + "</roleTerm></role></name>", '')}}
+{{if(cells['name2'].value != "IGNORE", '<name' + if(cells['name_type2'].value != "IGNORE", ' type="' + cells['name_type2'].value +'"', '') + "><namePart>" + if(cells['name2'].value != "IGNORE", cells['name2'].value, '') + '</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/isb">Issuing body</roleTerm></role></name>', '')}}<location><physicalLocation>{{cells['repository'].value}}</physicalLocation></location>
 <abstract>{{cells['abstract'].value}}</abstract>
 <physicalDescription>
 <extent>{{cells['extent'].value}}</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
 </physicalDescription>
-<genre authority="lcgft" aurhorityURI="http://id.loc.gov/authorities/genreForms"{{if(cells['genre_URI'].value != 'IGNORE',' valueURI="' + cells['genre_URI'].value+ '"', '')}}>{{cells['genre'].value}}</genre>
+<genre authority="lcgft" authorityURI="http://id.loc.gov/authorities/genreForms"{{if(cells['genre_URI'].value != 'IGNORE',' valueURI="' + cells['genre_URI'].value+ '"', '')}}>{{cells['genre'].value}}</genre>
 <language><languageTerm type="code" authority="iso639-2b">{{cells["language"].value}}</languageTerm></language>
 <recordInfo>
 <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
