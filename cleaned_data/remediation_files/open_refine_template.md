@@ -16,10 +16,7 @@
 <nonSort>{{cells['title_initial_article'].value}}</nonSort>
 <title>{{cells['title'].value}}</title>
 </titleInfo>
-<accessCondition type="use and reproduction" xlink:href="{{cells['rights_URI'].value}}">{{cells['rights'].value}}</accessCondition>
-<name {{if(cells['rights_holder_name_authority'].value == 'naf', 'authority="naf" type="personal" valueURI="http://id.loc.gov/authorities/names/no00073285"', '')}}><namePart>{{cells['rights_holder_name'].value}}</namePart>
-<role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name>
-<typeOfResource>{{cells['item_type'].value}}</typeOfResource>
+<accessCondition type="use and reproduction" xlink:href="{{cells['rights_URI'].value}}">{{cells['rights'].value}}</accessCondition>{{if(cells['rights_holder_name'].value != "IGNORE", '<name' + if(cells['rights_holder_name_authority'].value != "IGNORE", ' authority="' + cells['rights_holder_name_authority'].value +'"', '') + if(cells['rights_holder_name_URI'].value != "IGNORE", ' valueURI="' + cells['rights_holder_name_URI'].value +'"', '') + if(cells['rights_holder_name_type'].value != "IGNORE", ' type="' + cells['rights_holder_name_type'].value +'"', '') + "><namePart>" + cells['rights_holder_name'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name>', '')}}<typeOfResource>{{cells['item_type'].value}}</typeOfResource>
 <originInfo>
 <dateCreated encoding="edtf" keyDate="yes">{{cells['date_key'].value}}</dateCreated>
 <dateCreated {{if(cells['date_qualifier'].value != 'ignore', 'qualifier="' + cells['date_qualifier'].value + '"', '')}}>{{cells['date_text'].value}}</dateCreated>
