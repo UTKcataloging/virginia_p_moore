@@ -6,7 +6,7 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_003912_000088</identifier>
    <titleInfo>
-      <title>New Mouse Creek School Building - BRADELY COUNTY-</title>
+      <title>New Mouse Creek School Building - BRADLEY COUNTY-</title>
    </titleInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
@@ -21,9 +21,6 @@
       </role>
    </name>
    <typeOfResource>still image</typeOfResource>
-   <originInfo>
-      <dateCreated encoding="edtf" keyDate="yes">19uu</dateCreated>
-   </originInfo>
    <physicalDescription>
       <form authority="aat"
             authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/"
