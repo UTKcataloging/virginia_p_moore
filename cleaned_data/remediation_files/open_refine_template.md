@@ -10,11 +10,10 @@
 ### Row Template
 
 ```
+
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">{{cells['identifier_file'].value}}</identifier>
-<titleInfo>
-<nonSort>{{cells['title_initial_article'].value}}</nonSort>
-<title>{{cells['title'].value}}</title>
+<titleInfo>{{if(cells['title_initial_article'].value != "IGNORE", '<nonSort>' + cells['title_initial_article'].value + '</nonSort>', '')}}<title>{{cells['title'].value}}</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="{{cells['rights_URI'].value}}">{{cells['rights'].value}}</accessCondition>{{if(cells['rights_holder_name'].value != "IGNORE", '<name' + if(cells['rights_holder_name_authority'].value != "IGNORE", ' authority="' + cells['rights_holder_name_authority'].value +'"', '') + if(cells['rights_holder_name_URI'].value != "IGNORE", ' valueURI="' + cells['rights_holder_name_URI'].value +'"', '') + if(cells['rights_holder_name_type'].value != "IGNORE", ' type="' + cells['rights_holder_name_type'].value +'"', '') + "><namePart>" + cells['rights_holder_name'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name>', '')}}<typeOfResource>{{cells['item_type'].value}}</typeOfResource>
 <originInfo>

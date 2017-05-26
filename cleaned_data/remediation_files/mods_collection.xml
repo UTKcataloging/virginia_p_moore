@@ -2,9 +2,7 @@
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000001</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>SIXTH ANNUAL MEETING of WOMEN AGENTS _ _ _ _ O _ _ _ _ TO BE HELD AT UNIVERSITY OF TENNESSEE KNOXVILLE, TENN. APRIL 16 - 21, 1917.</title>
+<titleInfo><title>SIXTH ANNUAL MEETING of WOMEN AGENTS _ _ _ _ O _ _ _ _ TO BE HELD AT UNIVERSITY OF TENNESSEE KNOXVILLE, TENN. APRIL 16 - 21, 1917.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -50,9 +48,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000002</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Victory Luncheon --- Hermitage Hotel, Nashville, Tennessee, April 5, 1918.</title>
+<titleInfo><title>Victory Luncheon --- Hermitage Hotel, Nashville, Tennessee, April 5, 1918.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -98,9 +94,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000003</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Early Home Demonstration Work in the South.</title>
+<titleInfo><title>Early Home Demonstration Work in the South.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -146,9 +140,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000004</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>OBJECTS OF THE GIRLS' C. &amp; P. CLUB WORK.</title>
+<titleInfo><title>OBJECTS OF THE GIRLS' C. & P. CLUB WORK.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -194,9 +186,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000005</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Do You Practice Good Housekeeping?</title>
+<titleInfo><title>Do You Practice Good Housekeeping?</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -242,9 +232,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000006</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>YEAR'S OUTLINE OF WORK TO BE SUPPLEMENTED BY BULLETINS, PROGRAMS AND OTHER HELPS FROM DIVISION OF EXTENSION, UNIVERSITY OF TENNESSEE ; OBJECT OF HOME DEMONSTRATION CLUBS FOR WOMEN.</title>
+<titleInfo><title>YEAR'S OUTLINE OF WORK TO BE SUPPLEMENTED BY BULLETINS, PROGRAMS AND OTHER HELPS FROM DIVISION OF EXTENSION, UNIVERSITY OF TENNESSEE ; OBJECT OF HOME DEMONSTRATION CLUBS FOR WOMEN.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -290,9 +278,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000007</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Recipes for desserts]</title>
+<titleInfo><title>[Recipes for desserts]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -338,9 +324,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000008</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Soups - St Patricks Soup.</title>
+<titleInfo><title>Soups - St Patricks Soup.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -386,9 +370,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000009</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Preserving.</title>
+<titleInfo><title>Preserving.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -434,9 +416,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000010</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Farmers' meeting at Tennessee Ridge, Houston County, July 23, 1915.</title>
+<titleInfo><title>Farmers' meeting at Tennessee Ridge, Houston County, July 23, 1915.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -449,7 +429,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Back caption title, handwritten in ink. Photograph of a large group attending a farmers' meeting in Houston County. Additional caption on the back: "Canning demonstration by Mrs. Ora Dillon, agent. 400 peoples present." "Canning &amp; Lime Crushing Demonstration Meeting."</abstract>
+<abstract>Back caption title, handwritten in ink. Photograph of a large group attending a farmers' meeting in Houston County. Additional caption on the back: "Canning demonstration by Mrs. Ora Dillon, agent. 400 peoples present." "Canning & Lime Crushing Demonstration Meeting."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 20 x 25 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -482,9 +462,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000011</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canning Party given by Mrs Scott where the Corn Club Boys brought wood, water and fruit for the girls.</title>
+<titleInfo><title>Canning Party given by Mrs Scott where the Corn Club Boys brought wood, water and fruit for the girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -516,7 +494,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -530,9 +508,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000012</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Racheal and her canning work.]</title>
+<titleInfo><title>[Racheal and her canning work.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -565,7 +541,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -578,9 +554,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000013</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canning Demonstration, Riverdale School_Rally_Knox Co. 1913.</title>
+<titleInfo><title>Canning Demonstration, Riverdale School_Rally_Knox Co. 1913.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -615,7 +589,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>Boys</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -626,9 +600,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000014</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>GIRLS CANNING CLUBS EXCHANGE.</title>
+<titleInfo><title>GIRLS CANNING CLUBS EXCHANGE.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -661,10 +633,10 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Girls</topic></subject>
-<subject><topic>Stores &amp; shops</topic></subject>
+<subject><topic>Stores & shops</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Baked products</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -674,9 +646,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000015</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>States Home Dem[onstration] agents meeting, D.C. 1914.</title>
+<titleInfo><title>States Home Dem[onstration] agents meeting, D.C. 1914.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -722,9 +692,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000016</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Home Demonstration Work: an exhibit at the Florida State Fair that emphasized the importance of home conveniences.</title>
+<titleInfo><title>Home Demonstration Work: an exhibit at the Florida State Fair that emphasized the importance of home conveniences.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -770,9 +738,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000017</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Ethelee Scott in her one-tenth acre plot.</title>
+<titleInfo><title>Ethelee Scott in her one-tenth acre plot.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -818,9 +784,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000018</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canning Dem[onstration] at Uni[versity] of Chattanooga 1911.</title>
+<titleInfo><title>Canning Dem[onstration] at Uni[versity] of Chattanooga 1911.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -852,7 +816,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -866,9 +830,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000019</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canning Dem. &amp; Contest at State Fair 1912.</title>
+<titleInfo><title>Canning Dem. & Contest at State Fair 1912.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -900,7 +862,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -914,9 +876,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000020</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Big Sand[y] Benton Co. Tenn - a Tomatoes Club Demonstration.</title>
+<titleInfo><title>Big Sand[y] Benton Co. Tenn - a Tomatoes Club Demonstration.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -949,7 +909,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
@@ -962,9 +922,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000021</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Sealing Contest Tenn State Fair</title>
+<titleInfo><title>Sealing Contest Tenn State Fair</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -996,7 +954,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>null</topic></subject>
@@ -1010,9 +968,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000022</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canning Demonstration at the Summer School of the South Uni[versity] of Tenn[essee] Knoxville</title>
+<titleInfo><title>Canning Demonstration at the Summer School of the South Uni[versity] of Tenn[essee] Knoxville</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1045,7 +1001,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
 <subject><topic>null</topic></subject>
@@ -1058,9 +1014,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000023</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Parks Canning Club Fayette County</title>
+<titleInfo><title>Parks Canning Club Fayette County</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1092,7 +1046,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>4-H clubs</topic></subject>
@@ -1106,9 +1060,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000024</identifier>
-<titleInfo>
-<nonSort>A</nonSort>
-<title>community canner.</title>
+<titleInfo><nonSort>A</nonSort><title>community canner.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1140,7 +1092,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
 <subject><topic>null</topic></subject>
@@ -1154,9 +1106,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000025</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Williamson County club girl]</title>
+<titleInfo><title>[Williamson County club girl]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1189,7 +1139,7 @@
 <subject><topic>Scales -- 1910</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Girls</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>null</topic></subject>
@@ -1202,9 +1152,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000026</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Glenn Jones gathering her first half bushel of beans.</title>
+<titleInfo><title>Glenn Jones gathering her first half bushel of beans.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1250,9 +1198,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000027</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Two club girls and Virginia P. Moore working in a garden plot]</title>
+<titleInfo><title>[Two club girls and Virginia P. Moore working in a garden plot]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1298,9 +1244,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000028</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[An African-American club girl picking cotton in her garden plot]</title>
+<titleInfo><title>[An African-American club girl picking cotton in her garden plot]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1346,9 +1290,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000029</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Room of canned produce]</title>
+<titleInfo><title>[Room of canned produce]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1378,7 +1320,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
@@ -1394,9 +1336,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000030</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Mrs. J. J. Hardin giving pruning demonstration to four members.</title>
+<titleInfo><title>Mrs. J. J. Hardin giving pruning demonstration to four members.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1442,9 +1382,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000031</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Fayette County Canning Club Exhibit, Oct. 13-1913.</title>
+<titleInfo><title>Fayette County Canning Club Exhibit, Oct. 13-1913.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1474,7 +1412,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Canned foods</topic></subject>
@@ -1490,9 +1428,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000032</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Henry Co. Tennessee Tomato Club Rally Day</title>
+<titleInfo><title>Henry Co. Tennessee Tomato Club Rally Day</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1524,7 +1460,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Parades &amp; processions</topic></subject>
+<subject><topic>Parades & processions</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Parades</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -1538,9 +1474,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000033</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Display of canned produce by Hamilton County club]</title>
+<titleInfo><title>[Display of canned produce by Hamilton County club]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1570,7 +1504,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Canned foods</topic></subject>
@@ -1586,9 +1520,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000034</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Outdoor canning demonstration]</title>
+<titleInfo><title>[Outdoor canning demonstration]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1618,7 +1550,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>Moore, Virginia P. (Virginia Pearl)</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>Women</topic></subject>
@@ -1634,9 +1566,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000035</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Grace Waters standing in garden plot]</title>
+<titleInfo><title>[Grace Waters standing in garden plot]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1682,9 +1612,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000036</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Club girls in uniforms stand around an automobile with Virginia P. Moore sitting inside]</title>
+<titleInfo><title>[Club girls in uniforms stand around an automobile with Virginia P. Moore sitting inside]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1730,9 +1658,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000037</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>At home of Myrtle McMurray</title>
+<titleInfo><title>At home of Myrtle McMurray</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1778,9 +1704,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000038</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Breadmaking club of the Hamilton County Schools</title>
+<titleInfo><title>Breadmaking club of the Hamilton County Schools</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1826,9 +1750,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000039</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Grace Waters standing in her demonstration plot]</title>
+<titleInfo><title>[Grace Waters standing in her demonstration plot]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1874,9 +1796,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000040</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Fountain High Sch[ool] Club</title>
+<titleInfo><title>Fountain High Sch[ool] Club</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1908,7 +1828,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -1922,9 +1842,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000041</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Large group of club girls standing outside]</title>
+<titleInfo><title>[Large group of club girls standing outside]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -1970,9 +1888,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000042</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>First meeting of County Canning Club Agents at Uni[versity of] Tennessee</title>
+<titleInfo><title>First meeting of County Canning Club Agents at Uni[versity of] Tennessee</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2004,7 +1920,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Meetings</topic></subject>
 <subject><topic>Canning and preserving -- Congresses.</topic></subject>
 <subject><topic>Girls -- Societies and clubs.</topic></subject>
@@ -2018,9 +1934,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000043</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Rocky Fork Club Unicoi Co. at the cannery]</title>
+<titleInfo><title>[Rocky Fork Club Unicoi Co. at the cannery]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2052,7 +1966,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canneries</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -2066,9 +1980,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000044</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Virginia P. Moore being humorous]</title>
+<titleInfo><title>[Virginia P. Moore being humorous]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2101,7 +2013,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Housework</topic></subject>
-<subject><topic>Brooms &amp; brushes</topic></subject>
+<subject><topic>Brooms & brushes</topic></subject>
 <subject><topic>Trees</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
 <subject><topic>Housekeeping</topic></subject>
@@ -2114,9 +2026,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000045</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Lou Brickey in her plot.</title>
+<titleInfo><title>Lou Brickey in her plot.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2162,9 +2072,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000046</identifier>
-<titleInfo>
-<nonSort>An</nonSort>
-<title>[African-American woman with her poultry.]</title>
+<titleInfo><nonSort>An</nonSort><title>[African-American woman with her poultry.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2210,9 +2118,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000047</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Girls Canning Club Exhibit</title>
+<titleInfo><title>Girls Canning Club Exhibit</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2225,7 +2131,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Title from the signage in the photo. Back caption, handwritten in ink, 'Houston County Girls Canning Club Exhibit, Oct. 15 &amp; 16, 1915.' A group photo of eleven girls seated on the floor and a woman standing, all surrounded by produce and canned goods set up on shelves for the exhibit.</abstract>
+<abstract>Title from the signage in the photo. Back caption, handwritten in ink, 'Houston County Girls Canning Club Exhibit, Oct. 15 & 16, 1915.' A group photo of eleven girls seated on the floor and a woman standing, all surrounded by produce and canned goods set up on shelves for the exhibit.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 12.5 x 17.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -2244,7 +2150,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -2258,9 +2164,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000048</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Montgomery County - Girls Canning Club Display, Oct. 1915.</title>
+<titleInfo><title>Montgomery County - Girls Canning Club Display, Oct. 1915.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2292,7 +2196,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Awards</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -2306,9 +2210,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000049</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Winners from Montgomery County Canning Club]</title>
+<titleInfo><title>[Winners from Montgomery County Canning Club]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2321,7 +2223,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Devised title. Back caption, handwritten in pencil, "1st &amp; 2nd Prize girls in Montgomery Co. in Canning Club and their prize exhibits - Oct. 1915, Gladys &amp; Elizabeth Hogan."</abstract>
+<abstract>Devised title. Back caption, handwritten in pencil, "1st & 2nd Prize girls in Montgomery Co. in Canning Club and their prize exhibits - Oct. 1915, Gladys & Elizabeth Hogan."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 12.5 x 17.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -2340,7 +2242,7 @@
 <subject><name><namePart>Hogan, Elizabeth</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Awards</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -2354,9 +2256,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000050</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Girls Canning Club Exhibit 8 varieties</title>
+<titleInfo><title>Girls Canning Club Exhibit 8 varieties</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2388,7 +2288,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -2402,9 +2302,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000051</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Tomato Club Exhibit at the 1912 Tennessee State Fair]</title>
+<titleInfo><title>[Tomato Club Exhibit at the 1912 Tennessee State Fair]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2436,7 +2334,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -2450,9 +2348,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000052</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Sumner Co. Canning Club Girls May 7, 1916</title>
+<titleInfo><title>Sumner Co. Canning Club Girls May 7, 1916</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2484,7 +2380,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -2498,9 +2394,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000053</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Anderson County Canning Club Exhibit at the Clinton Fair, September 1915.]</title>
+<titleInfo><title>[Anderson County Canning Club Exhibit at the Clinton Fair, September 1915.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><name type="personal"><namePart>Johnson, Ella</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2532,7 +2426,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -2546,9 +2440,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000054</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Canning Club Demonstration at Spencer, Tennessee.]</title>
+<titleInfo><title>[Canning Club Demonstration at Spencer, Tennessee.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2580,7 +2472,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -2594,9 +2486,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000055</identifier>
-<titleInfo>
-<nonSort>A</nonSort>
-<title>[short course on tablesetting at Carson-Newman College.]</title>
+<titleInfo><nonSort>A</nonSort><title>[short course on tablesetting at Carson-Newman College.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2626,7 +2516,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>Carson-Newman College.</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Table settings &amp; decorations</topic></subject>
+<subject><topic>Table settings & decorations</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>Women</topic></subject>
@@ -2642,9 +2532,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000056</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Jefferson County girls canning in tin. Carson-Newman Short Course, August 1917</title>
+<titleInfo><title>Jefferson County girls canning in tin. Carson-Newman Short Course, August 1917</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2676,7 +2564,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Home economics extension work</topic></subject>
 <subject><topic>null</topic></subject>
@@ -2690,9 +2578,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000057</identifier>
-<titleInfo>
-<nonSort>A</nonSort>
-<title>[cooking class]</title>
+<titleInfo><nonSort>A</nonSort><title>[cooking class]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2724,7 +2610,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Cookery</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Pots &amp; pans</topic></subject>
+<subject><topic>Pots & pans</topic></subject>
 <subject><topic>Classrooms</topic></subject>
 <subject><topic>Students</topic></subject>
 <subject><topic>Girls</topic></subject>
@@ -2738,9 +2624,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000058</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Women who attended the Campbell County Court, July 1, 1917, in interest of home demonstration work appropriation</title>
+<titleInfo><title>Women who attended the Campbell County Court, July 1, 1917, in interest of home demonstration work appropriation</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2786,9 +2670,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000059</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Field meeting on Nellie Twitty's 1/10 acre garden, Lincoln Co.</title>
+<titleInfo><title>Field meeting on Nellie Twitty's 1/10 acre garden, Lincoln Co.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2834,9 +2716,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000060</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Girl standing in a garden with a hoe]</title>
+<titleInfo><title>[Girl standing in a garden with a hoe]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2882,9 +2762,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000061</identifier>
-<titleInfo>
-<nonSort>A</nonSort>
-<title>LAWRENCE COUNTY, TENNESSEE, TOMATO CLUB</title>
+<titleInfo><nonSort>A</nonSort><title>LAWRENCE COUNTY, TENNESSEE, TOMATO CLUB</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2897,7 +2775,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Title from front caption. Back caption (handwritten in ink), "Tomato Club girls of Laurence County. Return to Virginia P. Moore, State Capitol, Nashville, Tenn." Bears (stamped) Miss Virginia P. Moore State Agent Girls' C &amp; P. Co. State Capitol NASHVILLE, TENN.</abstract>
+<abstract>Title from front caption. Back caption (handwritten in ink), "Tomato Club girls of Laurence County. Return to Virginia P. Moore, State Capitol, Nashville, Tenn." Bears (stamped) Miss Virginia P. Moore State Agent Girls' C & P. Co. State Capitol NASHVILLE, TENN.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 20.5 x 25.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -2917,7 +2795,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
@@ -2930,9 +2808,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000062</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Part of Bradley Co. Corn Club taken at Mineral Park, July 10, 1912.</title>
+<titleInfo><title>Part of Bradley Co. Corn Club taken at Mineral Park, July 10, 1912.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -2978,9 +2854,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000063</identifier>
-<titleInfo>
-<nonSort>A</nonSort>
-<title>[portrait photograph of Virginia P. Moore]</title>
+<titleInfo><nonSort>A</nonSort><title>[portrait photograph of Virginia P. Moore]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3026,9 +2900,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000064</identifier>
-<titleInfo>
-<nonSort>A</nonSort>
-<title>[portrait photograph of Virginia P. Moore wearing the dress, and lace worn by Queen Victoria at one time]</title>
+<titleInfo><nonSort>A</nonSort><title>[portrait photograph of Virginia P. Moore wearing the dress, and lace worn by Queen Victoria at one time]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3062,7 +2934,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Portrait photographs</topic></subject>
 <subject><topic>Lace</topic></subject>
-<subject><topic>Clothing &amp; dress</topic></subject>
+<subject><topic>Clothing & dress</topic></subject>
 <subject><topic>Clothing and dress</topic></subject>
 <subject><topic>Lace and lace making</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -3074,9 +2946,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000065</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>"Tee" and Thomas A. Edison.</title>
+<titleInfo><title>"Tee" and Thomas A. Edison.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3122,9 +2992,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000066</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Virginia P. Moore and Mrs. Thomas Alva Edison with an unnamed lady and a gentleman, possibly in Fort Myers, Florida.]</title>
+<titleInfo><title>[Virginia P. Moore and Mrs. Thomas Alva Edison with an unnamed lady and a gentleman, possibly in Fort Myers, Florida.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3170,9 +3038,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000067</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Virginia P. Moore (probably about 1910)</title>
+<titleInfo><title>Virginia P. Moore (probably about 1910)</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3218,9 +3084,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000068</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Mrs. Thomas Alva Edison points out and explains many interesting trees to Virginia P. Moore and another woman.]</title>
+<titleInfo><title>[Mrs. Thomas Alva Edison points out and explains many interesting trees to Virginia P. Moore and another woman.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3266,9 +3130,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000069</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Thomas Edison</title>
+<titleInfo><title>Thomas Edison</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3314,9 +3176,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000070</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Virginia P. Moore and other Tennessee delegates at a White House Conference]</title>
+<titleInfo><title>[Virginia P. Moore and other Tennessee delegates at a White House Conference]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3362,9 +3222,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000071</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Photograph of one man standing outdoors posting for photograph with four young women in their canning club uniforms]</title>
+<titleInfo><title>[Photograph of one man standing outdoors posting for photograph with four young women in their canning club uniforms]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3410,9 +3268,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000072</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Portrait photograph of Mrs. J.B. Lauderbach, County Collaborator.]</title>
+<titleInfo><title>[Portrait photograph of Mrs. J.B. Lauderbach, County Collaborator.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3425,7 +3281,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name><namePart>unknown</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Portrait photograph of a woman in a white lace dress taken from her left-hand side. Back caption (handwritten in pencil), "Please return. Mrs. J.B. Lauderbach. The Ferger Chattanooga Tenn. Mrs. J.B. Lauderbach, County Collaborator, whose untiring efforts have added much to the Girls' C &amp; P Club work. Please return to Miss V.P. Moore, State Capitol." Devised title.</abstract>
+<abstract>Portrait photograph of a woman in a white lace dress taken from her left-hand side. Back caption (handwritten in pencil), "Please return. Mrs. J.B. Lauderbach. The Ferger Chattanooga Tenn. Mrs. J.B. Lauderbach, County Collaborator, whose untiring efforts have added much to the Girls' C & P Club work. Please return to Miss V.P. Moore, State Capitol." Devised title.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 17.5 x 11.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -3458,9 +3314,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000073</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>First auto[mobile] owned by a Tenn[essean] ag[en]t, Mrs. Elizabeth Lauderbach, Hamilton Co[unty], Tenn[essee], 1911.</title>
+<titleInfo><title>First auto[mobile] owned by a Tenn[essean] ag[en]t, Mrs. Elizabeth Lauderbach, Hamilton Co[unty], Tenn[essee], 1911.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3506,9 +3360,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000074</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Photograph of a home demonstration agent sitting behind the wheel with six girls in an automobile.]</title>
+<titleInfo><title>[Photograph of a home demonstration agent sitting behind the wheel with six girls in an automobile.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3554,9 +3406,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000075</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Group photograph of a boys' corn club.]</title>
+<titleInfo><title>[Group photograph of a boys' corn club.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3602,9 +3452,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000076</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Annual Conference [of] State Ag[en]ts, Washington, [D.C.], Nov[ember] 1917.</title>
+<titleInfo><title>Annual Conference [of] State Ag[en]ts, Washington, [D.C.], Nov[ember] 1917.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3650,9 +3498,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000077</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Group photograph of the twenty-fifth anniversary dinner celebration of home demonstration and agricultural extension work, Texas, circa 1928.]</title>
+<titleInfo><title>[Group photograph of the twenty-fifth anniversary dinner celebration of home demonstration and agricultural extension work, Texas, circa 1928.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3698,9 +3544,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000078</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Photograph portrait of Virginia P. Moore]</title>
+<titleInfo><title>[Photograph portrait of Virginia P. Moore]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3746,9 +3590,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000079</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Virginia P. Moore's] study class in Tazewell (Tennessee) using "Foods &amp; nutrition" as the textbook.</title>
+<titleInfo><title>[Virginia P. Moore's] study class in Tazewell (Tennessee) using "Foods & nutrition" as the textbook.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3761,7 +3603,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Title from back caption. Back caption, handwritten in ink, "This is my study class Tazewell "Foods &amp; nutrition" is our text Book P.V. M." Photograph of six women seated in chairs on a grass lawn next to a house with open textbooks in their hands.</abstract>
+<abstract>Title from back caption. Back caption, handwritten in ink, "This is my study class Tazewell "Foods & nutrition" is our text Book P.V. M." Photograph of six women seated in chairs on a grass lawn next to a house with open textbooks in their hands.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 7 x 9.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -3794,9 +3636,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000080</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Virginia P. Moore in] Florida.</title>
+<titleInfo><title>[Virginia P. Moore in] Florida.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3842,9 +3682,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000081</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Group at Spring Sewing &amp; child</title>
+<titleInfo><title>Group at Spring Sewing & child</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3890,9 +3728,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000082</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Tomato Girls who were at Mineral Park July 10, 1912. Bradley, Co.</title>
+<titleInfo><title>Tomato Girls who were at Mineral Park July 10, 1912. Bradley, Co.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3938,9 +3774,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000083</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Karns High School Club - 1914 Netta Butler Canning in yard of President's home</title>
+<titleInfo><title>Karns High School Club - 1914 Netta Butler Canning in yard of President's home</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3973,7 +3807,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
@@ -3986,9 +3820,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000084</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Virginia P. Moore seated in the center of a group photo with sixteen women, some holding rolled-up paper (certificates of some kind)].</title>
+<titleInfo><title>[Virginia P. Moore seated in the center of a group photo with sixteen women, some holding rolled-up paper (certificates of some kind)].</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4034,9 +3866,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000085</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>CUMBERLAND COUNTY [HIGH SCHOOL, CROSSVILLE, TENN.] Exhibit.</title>
+<titleInfo><title>CUMBERLAND COUNTY [HIGH SCHOOL, CROSSVILLE, TENN.] Exhibit.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4070,9 +3900,9 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Fairs</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Handicraft</topic></subject>
-<subject><topic>Clothing &amp; dress</topic></subject>
+<subject><topic>Clothing & dress</topic></subject>
 <subject><topic>Home demonstration work -- Exhibitions</topic></subject>
 <subject><topic>4-H clubs -- Exhibitions</topic></subject>
 <subject><topic>null</topic></subject>
@@ -4082,9 +3912,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000086</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>County Ed[ucation] Rally, Hixson, Oct. 1, 1914</title>
+<titleInfo><title>County Ed[ucation] Rally, Hixson, Oct. 1, 1914</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4130,9 +3958,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000087</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>TWENTIETH CENTURY CLUB</title>
+<titleInfo><title>TWENTIETH CENTURY CLUB</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4145,7 +3971,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name><namePart>unknown</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Title from the photograph. Back caption (handwritten in blue ink), "V.P. Moore (white dress &amp; hat) 3rd from left," and in pencil, "1926". Photograph shows Virginia P. Moore standing among a large group of women in front of the entrance of "Twentieth Century Club" building, possibly in Florida.</abstract>
+<abstract>Title from the photograph. Back caption (handwritten in blue ink), "V.P. Moore (white dress & hat) 3rd from left," and in pencil, "1926". Photograph shows Virginia P. Moore standing among a large group of women in front of the entrance of "Twentieth Century Club" building, possibly in Florida.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 29 x 34 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4178,9 +4004,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000088</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>New Mouse Creek School Building - BRADELY COUNTY-</title>
+<titleInfo><title>New Mouse Creek School Building - BRADELY COUNTY-</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4226,9 +4050,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000089</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Rear View of New Mouse Creek School Building -BRADLEY COUNTY-</title>
+<titleInfo><title>Rear View of New Mouse Creek School Building -BRADLEY COUNTY-</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4274,9 +4096,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000090</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>CURVE SCHOOL, LAUDERDALE COUNTY, TENNESSEE. WORK OF SCHOOL IMPROVEMENT ASSOCIATION.</title>
+<titleInfo><title>CURVE SCHOOL, LAUDERDALE COUNTY, TENNESSEE. WORK OF SCHOOL IMPROVEMENT ASSOCIATION.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4322,9 +4142,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000091</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Oakland School Wilson CO</title>
+<titleInfo><title>Oakland School Wilson CO</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4370,9 +4188,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000092</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Rural School. Cloak Room of New School. After. Sideview Sumner Co.</title>
+<titleInfo><title>Rural School. Cloak Room of New School. After. Sideview Sumner Co.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4407,7 +4223,7 @@
 <subject><topic>Boys</topic></subject>
 <subject><topic>School children</topic></subject>
 <subject><topic>Teachers</topic></subject>
-<subject><topic>Rooms &amp; spaces</topic></subject>
+<subject><topic>Rooms & spaces</topic></subject>
 <subject><topic>Rural schools</topic></subject>
 <subject><topic>Rural schools</topic></subject>
 <subject><topic>null</topic></subject>
@@ -4418,9 +4234,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000093</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Shelby County Girls Canning Club Exhibition]</title>
+<titleInfo><title>[Shelby County Girls Canning Club Exhibition]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4433,7 +4247,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Devised title from the exhibit's banner in the photograph. Includes other banners for Shelby County and Shelby County Tomato Club. Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C &amp; P Co., State Capitol, NASHVILLE, TENN."</abstract>
+<abstract>Devised title from the exhibit's banner in the photograph. Includes other banners for Shelby County and Shelby County Tomato Club. Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C & P Co., State Capitol, NASHVILLE, TENN."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 30.5 x 25.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4452,7 +4266,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Canning and preserving -- Exhibitions.</topic></subject>
@@ -4466,9 +4280,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000094</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Virginia P Moore and the Corn Club boys and the Tomato Club girls]</title>
+<titleInfo><title>[Virginia P Moore and the Corn Club boys and the Tomato Club girls]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4481,7 +4293,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name><namePart>unknown</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Devised title. Handwritten caption on front of photograph mounting reads "'Tee' V.P. Moore" and points to Virginia P. Moore, standing on the far right in black. Photograph also shows one boy holding up an ear of corn and one girl holding up a can of tomotoes. Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C &amp; P Co., State Capitol, NASHVILLE, TENN."</abstract>
+<abstract>Devised title. Handwritten caption on front of photograph mounting reads "'Tee' V.P. Moore" and points to Virginia P. Moore, standing on the far right in black. Photograph also shows one boy holding up an ear of corn and one girl holding up a can of tomotoes. Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C & P Co., State Capitol, NASHVILLE, TENN."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 25.5 x 30.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4514,9 +4326,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000095</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>TYNER GRAMMAR SCHOOL Play-Ground Equipment. HAMILTON COUNTY.</title>
+<titleInfo><title>TYNER GRAMMAR SCHOOL Play-Ground Equipment. HAMILTON COUNTY.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4562,9 +4372,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000096</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Maury Academy in 1907-'08 Before any improvements were made.</title>
+<titleInfo><title>Maury Academy in 1907-'08 Before any improvements were made.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4610,9 +4418,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000097</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Oakland Schoo[l] [1]910</title>
+<titleInfo><title>Oakland Schoo[l] [1]910</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4658,9 +4464,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000098</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>AFTER THE DAYS WORK - HAMILTON COUNTY, TENNESSEE.</title>
+<titleInfo><title>AFTER THE DAYS WORK - HAMILTON COUNTY, TENNESSEE.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4673,7 +4477,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Front caption title from a label numbered 23. Handwritten on back of photograph is "V. P. Moore, State Capitol, Nashville, Tenn." Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C &amp; P Co., State Capitol, NASHVILLE, TENN." Photograph of young women, members of a canning club, and the canned tomatoes they produced.</abstract>
+<abstract>Front caption title from a label numbered 23. Handwritten on back of photograph is "V. P. Moore, State Capitol, Nashville, Tenn." Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C & P Co., State Capitol, NASHVILLE, TENN." Photograph of young women, members of a canning club, and the canned tomatoes they produced.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 25.5 x 30.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4693,7 +4497,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
@@ -4706,9 +4510,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000099</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>COUNTY EXHIBIT OF GIRLS' C. &amp; P. CLUB OF BENTON COUNTY, NOVEMBER 2, 1912. 126 KINDS OF PRODUCTS CANNED, PRESERVED AND PICKLED, ETC.</title>
+<titleInfo><title>COUNTY EXHIBIT OF GIRLS' C. & P. CLUB OF BENTON COUNTY, NOVEMBER 2, 1912. 126 KINDS OF PRODUCTS CANNED, PRESERVED AND PICKLED, ETC.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4721,7 +4523,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Front caption title on a label numbered 17, with "TENNESSEE" stamped above the photo. Handwritten on back of photograph is "V. P. Moore, State Capitol, Nashville, Tenn." Stamped three times on back of photograph is "Miss VIRGINIA P. MOORE, State Agent Girls' C &amp; P Co., State Capitol, NASHVILLE, TENN."</abstract>
+<abstract>Front caption title on a label numbered 17, with "TENNESSEE" stamped above the photo. Handwritten on back of photograph is "V. P. Moore, State Capitol, Nashville, Tenn." Stamped three times on back of photograph is "Miss VIRGINIA P. MOORE, State Agent Girls' C & P Co., State Capitol, NASHVILLE, TENN."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 25.5 x 30.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4740,7 +4542,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Canning and preserving -- Exhibitions</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
@@ -4754,9 +4556,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000100</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Old Mouse Creek School Building -BRADLEY COUNTY-</title>
+<titleInfo><title>Old Mouse Creek School Building -BRADLEY COUNTY-</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4802,9 +4602,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0001</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Front cover of scrapbook.]</title>
+<titleInfo><title>[Front cover of scrapbook.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4850,9 +4648,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0002</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>TENNESSEE CANNING GIRLS AT WORK. 1912-1913.</title>
+<titleInfo><title>TENNESSEE CANNING GIRLS AT WORK. 1912-1913.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4898,9 +4694,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0003</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Hamilton County canning club girls.</title>
+<titleInfo><title>Hamilton County canning club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4932,7 +4726,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Horses</topic></subject>
@@ -4946,9 +4740,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0004</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Hamilton County canning club girls.</title>
+<titleInfo><title>Hamilton County canning club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4994,9 +4786,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0005</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Hamilton County canning club girls.</title>
+<titleInfo><title>Hamilton County canning club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5029,7 +4819,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc. -- History</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5042,9 +4832,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0006</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Madison County canning club girls.</title>
+<titleInfo><title>Madison County canning club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5078,7 +4866,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Gardening</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5090,9 +4878,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0007</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Bradley County canning club girls.</title>
+<titleInfo><title>Bradley County canning club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5127,7 +4913,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
 <subject><topic>Gardens</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Horses</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -5138,9 +4924,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0008</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Chassie Shelton, Hamilton County, Tennessee, who won pony given by Senator Jno. [John] K. Shields.</title>
+<titleInfo><title>Chassie Shelton, Hamilton County, Tennessee, who won pony given by Senator Jno. [John] K. Shields.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5186,9 +4970,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0009</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Bradley County corn club and canning exhibit.</title>
+<titleInfo><title>Bradley County corn club and canning exhibit.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5221,7 +5003,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -5234,9 +5016,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0010</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Labeling contest, Lawrence County.</title>
+<titleInfo><title>Labeling contest, Lawrence County.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5268,7 +5048,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Labels</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -5282,9 +5062,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0011</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Lawrence County club girls.</title>
+<titleInfo><title>Lawrence County club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5316,7 +5094,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Canned goods</topic></subject>
@@ -5330,9 +5108,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0012</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Myrtie Hardin, of Benton County, and trophies won in canning club.</title>
+<titleInfo><title>Myrtie Hardin, of Benton County, and trophies won in canning club.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5364,7 +5140,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Cows</topic></subject>
 <subject><topic>Awards</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -5378,9 +5154,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0013</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Girls in contest at Tennessee State Fair.</title>
+<titleInfo><title>Girls in contest at Tennessee State Fair.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5412,7 +5186,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Contests</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc. -- History</topic></subject>
@@ -5426,9 +5200,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0014</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Showing Myrtie Hardin in club plot, and jersey calf which she won.</title>
+<titleInfo><title>Showing Myrtie Hardin in club plot, and jersey calf which she won.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5463,7 +5235,7 @@
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Cows</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Awards</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -5474,9 +5246,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0015</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canner won by Eva School.</title>
+<titleInfo><title>Canner won by Eva School.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5508,7 +5278,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc. -- History</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -5522,9 +5292,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0016</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Benton County team who demonstrated at [Tennessee] State Fair.</title>
+<titleInfo><title>Benton County team who demonstrated at [Tennessee] State Fair.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5556,7 +5324,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -5570,9 +5338,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0017</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Tennessee] State Fair exhibit, first year's work.</title>
+<titleInfo><title>[Tennessee] State Fair exhibit, first year's work.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5602,7 +5368,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Fairs</topic></subject>
@@ -5618,9 +5384,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0018</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Benton County exhibit and interested visitors.</title>
+<titleInfo><title>Benton County exhibit and interested visitors.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5655,7 +5419,7 @@
 <subject><topic>Boys</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -5666,9 +5430,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0019</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Smallest corn club boy and smallest canning club girl in Tennessee, 1913.</title>
+<titleInfo><title>Smallest corn club boy and smallest canning club girl in Tennessee, 1913.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5701,7 +5463,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Corn</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -5714,9 +5476,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0020</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Benton County team demonstrating at National Conservation [Exposition].</title>
+<titleInfo><title>Benton County team demonstrating at National Conservation [Exposition].</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5748,7 +5508,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5762,9 +5522,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0021</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Montgomery County canning club girls.</title>
+<titleInfo><title>Montgomery County canning club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5796,7 +5554,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5810,9 +5568,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0022</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Club girl in yard with ducks.]</title>
+<titleInfo><title>[Club girl in yard with ducks.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5858,9 +5614,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0023</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>State organizer visiting a garden plot in Lincoln County.</title>
+<titleInfo><title>State organizer visiting a garden plot in Lincoln County.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5892,7 +5646,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -5906,9 +5660,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0024</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Lincoln County demonstration.</title>
+<titleInfo><title>Lincoln County demonstration.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5941,7 +5693,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5954,9 +5706,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0025</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Lincoln County team demonstrating at National Conservation Exposition.</title>
+<titleInfo><title>Lincoln County team demonstrating at National Conservation Exposition.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -5988,7 +5738,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6002,9 +5752,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0026</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canning down by the big spring. Coffee County girls.</title>
+<titleInfo><title>Canning down by the big spring. Coffee County girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6036,7 +5784,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6050,9 +5798,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0027</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>First canning club in Tennessee, Bolton, Shelby County.</title>
+<titleInfo><title>First canning club in Tennessee, Bolton, Shelby County.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6086,7 +5832,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6098,9 +5844,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0028</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Shelby County exhibit at Tri-State Fair, Memphis.</title>
+<titleInfo><title>Shelby County exhibit at Tri-State Fair, Memphis.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6132,7 +5876,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Fairs</topic></subject>
@@ -6146,9 +5890,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0029</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Henry County canning club girls.</title>
+<titleInfo><title>Henry County canning club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6180,7 +5922,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6194,9 +5936,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0030</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Davidson County canning club girls.]</title>
+<titleInfo><title>[Davidson County canning club girls.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6230,7 +5970,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6242,9 +5982,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0031</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Davidson County canning club girls.</title>
+<titleInfo><title>Davidson County canning club girls.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6277,7 +6015,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -6290,9 +6028,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0032</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Demonstration at Summer School of the South.]</title>
+<titleInfo><title>[Demonstration at Summer School of the South.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6326,7 +6062,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6338,9 +6074,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0033</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Demonstration at Summer School of the South.</title>
+<titleInfo><title>Demonstration at Summer School of the South.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6374,7 +6108,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6386,9 +6120,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0034</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Pioneer Canning Club, Knox County.</title>
+<titleInfo><title>Pioneer Canning Club, Knox County.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6420,7 +6152,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6434,9 +6166,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0036</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Vera Monday, in club plot, Knox County.</title>
+<titleInfo><title>Vera Monday, in club plot, Knox County.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6482,9 +6212,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0037</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Sallie Montcastle, in club plot, Knox County.</title>
+<titleInfo><title>Sallie Montcastle, in club plot, Knox County.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6530,9 +6258,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0038</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canning party at the home of a Knox Co. club girl.</title>
+<titleInfo><title>Canning party at the home of a Knox Co. club girl.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6564,7 +6290,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6578,9 +6304,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0039</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Knox County team, demonstrating at National Conservation Exposition.</title>
+<titleInfo><title>Knox County team, demonstrating at National Conservation Exposition.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6613,7 +6337,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6626,9 +6350,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0040</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Knox County demonstration.</title>
+<titleInfo><title>Knox County demonstration.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6660,7 +6382,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6674,9 +6396,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0042</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Demonstration at Jefferson Hall, Summer School of the South, Knoxville, 1913.</title>
+<titleInfo><title>Demonstration at Jefferson Hall, Summer School of the South, Knoxville, 1913.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6710,7 +6430,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6722,9 +6442,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0043</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Canning demonstration at a Knox County rural school.</title>
+<titleInfo><title>Canning demonstration at a Knox County rural school.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6759,7 +6477,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>Boys</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6770,9 +6488,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0044</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Outdoor tent and table for canning demonstration.]</title>
+<titleInfo><title>[Outdoor tent and table for canning demonstration.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6805,7 +6521,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6818,9 +6534,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0045</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Exhibit [at] National Conservation Exposition.</title>
+<titleInfo><title>Exhibit [at] National Conservation Exposition.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6850,7 +6564,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -6866,9 +6580,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0046</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>First demonstration in Hamilton County, held at University of Chattanooga.</title>
+<titleInfo><title>First demonstration in Hamilton County, held at University of Chattanooga.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6903,7 +6615,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>Boys</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6914,9 +6626,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0047</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Hamilton County team demonstrating at National Conservation Exposition.</title>
+<titleInfo><title>Hamilton County team demonstrating at National Conservation Exposition.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6949,7 +6659,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6962,9 +6672,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0048</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Sylvia Richmond, Hamilton County, after she had canned 500 cans tomatoes.</title>
+<titleInfo><title>Sylvia Richmond, Hamilton County, after she had canned 500 cans tomatoes.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -6996,7 +6704,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -7010,9 +6718,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0049</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Sylvia Richmond, in club plow, showing glimpse of her home in distance.</title>
+<titleInfo><title>Sylvia Richmond, in club plow, showing glimpse of her home in distance.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -7058,9 +6764,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0050</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Showing a later picture of Sylvia Richmond.</title>
+<titleInfo><title>Showing a later picture of Sylvia Richmond.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -7106,9 +6810,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0051</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Myrtie Hardin, Benton County, showing canned and preserved products, and the calf that she won.</title>
+<titleInfo><title>Myrtie Hardin, Benton County, showing canned and preserved products, and the calf that she won.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -7154,9 +6856,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0052</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>A demonstration at [Tennessee] State Fair.</title>
+<titleInfo><title>A demonstration at [Tennessee] State Fair.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -7189,7 +6889,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
-<subject><topic>Canning &amp; preserving</topic></subject>
+<subject><topic>Canning & preserving</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -7202,9 +6902,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0053</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>Factory children re-settting plants.</title>
+<titleInfo><title>Factory children re-settting plants.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -7250,9 +6948,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0054</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>After dinner speech.</title>
+<titleInfo><title>After dinner speech.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -7298,9 +6994,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0055</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Virginia P. Moore and other Tennessee delegates at a White House Conference.]</title>
+<titleInfo><title>[Virginia P. Moore and other Tennessee delegates at a White House Conference.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -7346,9 +7040,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000101_0056</identifier>
-<titleInfo>
-<nonSort>null</nonSort>
-<title>[Back cover of scrapbook.]</title>
+<titleInfo><title>[Back cover of scrapbook.]</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition><typeOfResource>still image</typeOfResource>
 <originInfo>
