@@ -140,7 +140,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000004</identifier>
-<titleInfo><title>OBJECTS OF THE GIRLS' C. & P. CLUB WORK.</title>
+<titleInfo><title>OBJECTS OF THE GIRLS' C. &amp; P. CLUB WORK.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>text</typeOfResource>
 <originInfo>
@@ -429,7 +429,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Back caption title, handwritten in ink. Photograph of a large group attending a farmers' meeting in Houston County. Additional caption on the back: "Canning demonstration by Mrs. Ora Dillon, agent. 400 peoples present." "Canning & Lime Crushing Demonstration Meeting."</abstract>
+<abstract>Back caption title, handwritten in ink. Photograph of a large group attending a farmers' meeting in Houston County. Additional caption on the back: "Canning demonstration by Mrs. Ora Dillon, agent. 400 peoples present." "Canning &amp; Lime Crushing Demonstration Meeting."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 20 x 25 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -494,7 +494,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -541,7 +541,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -589,7 +589,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>Boys</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -633,10 +633,10 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Girls</topic></subject>
-<subject><topic>Stores & shops</topic></subject>
+<subject><topic>Stores &amp; shops</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Baked products</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -816,7 +816,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -830,7 +830,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000019</identifier>
-<titleInfo><title>Canning Dem. & Contest at State Fair 1912.</title>
+<titleInfo><title>Canning Dem. &amp; Contest at State Fair 1912.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -862,7 +862,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -909,7 +909,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
@@ -954,7 +954,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>null</topic></subject>
@@ -1001,7 +1001,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
 <subject><topic>null</topic></subject>
@@ -1046,7 +1046,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>4-H clubs</topic></subject>
@@ -1092,7 +1092,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
 <subject><topic>null</topic></subject>
@@ -1139,7 +1139,7 @@
 <subject><topic>Scales -- 1910</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Girls</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>null</topic></subject>
@@ -1320,7 +1320,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
@@ -1412,7 +1412,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Canned foods</topic></subject>
@@ -1460,7 +1460,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Parades & processions</topic></subject>
+<subject><topic>Parades &amp; processions</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Parades</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -1504,7 +1504,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Canned foods</topic></subject>
@@ -1550,7 +1550,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>Moore, Virginia P. (Virginia Pearl)</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>Women</topic></subject>
@@ -1828,7 +1828,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Agricultural education -- Societies, etc.</topic></subject>
@@ -1920,7 +1920,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Meetings</topic></subject>
 <subject><topic>Canning and preserving -- Congresses.</topic></subject>
 <subject><topic>Girls -- Societies and clubs.</topic></subject>
@@ -1966,7 +1966,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canneries</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -2013,7 +2013,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Housework</topic></subject>
-<subject><topic>Brooms & brushes</topic></subject>
+<subject><topic>Brooms &amp; brushes</topic></subject>
 <subject><topic>Trees</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
 <subject><topic>Housekeeping</topic></subject>
@@ -2131,7 +2131,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Title from the signage in the photo. Back caption, handwritten in ink, 'Houston County Girls Canning Club Exhibit, Oct. 15 & 16, 1915.' A group photo of eleven girls seated on the floor and a woman standing, all surrounded by produce and canned goods set up on shelves for the exhibit.</abstract>
+<abstract>Title from the signage in the photo. Back caption, handwritten in ink, 'Houston County Girls Canning Club Exhibit, Oct. 15 &amp; 16, 1915.' A group photo of eleven girls seated on the floor and a woman standing, all surrounded by produce and canned goods set up on shelves for the exhibit.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 12.5 x 17.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -2150,7 +2150,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -2196,7 +2196,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Awards</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -2223,7 +2223,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Devised title. Back caption, handwritten in pencil, "1st & 2nd Prize girls in Montgomery Co. in Canning Club and their prize exhibits - Oct. 1915, Gladys & Elizabeth Hogan."</abstract>
+<abstract>Devised title. Back caption, handwritten in pencil, "1st &amp; 2nd Prize girls in Montgomery Co. in Canning Club and their prize exhibits - Oct. 1915, Gladys &amp; Elizabeth Hogan."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 12.5 x 17.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -2242,7 +2242,7 @@
 <subject><name><namePart>Hogan, Elizabeth</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Awards</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -2288,7 +2288,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -2334,7 +2334,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -2380,7 +2380,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -2426,7 +2426,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -2472,7 +2472,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -2516,7 +2516,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>Carson-Newman College.</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Table settings & decorations</topic></subject>
+<subject><topic>Table settings &amp; decorations</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>Women</topic></subject>
@@ -2564,7 +2564,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Home economics extension work</topic></subject>
 <subject><topic>null</topic></subject>
@@ -2610,7 +2610,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Cookery</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Pots & pans</topic></subject>
+<subject><topic>Pots &amp; pans</topic></subject>
 <subject><topic>Classrooms</topic></subject>
 <subject><topic>Students</topic></subject>
 <subject><topic>Girls</topic></subject>
@@ -2775,7 +2775,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Title from front caption. Back caption (handwritten in ink), "Tomato Club girls of Laurence County. Return to Virginia P. Moore, State Capitol, Nashville, Tenn." Bears (stamped) Miss Virginia P. Moore State Agent Girls' C & P. Co. State Capitol NASHVILLE, TENN.</abstract>
+<abstract>Title from front caption. Back caption (handwritten in ink), "Tomato Club girls of Laurence County. Return to Virginia P. Moore, State Capitol, Nashville, Tenn." Bears (stamped) Miss Virginia P. Moore State Agent Girls' C &amp; P. Co. State Capitol NASHVILLE, TENN.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 20.5 x 25.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -2795,7 +2795,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
@@ -2934,7 +2934,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Portrait photographs</topic></subject>
 <subject><topic>Lace</topic></subject>
-<subject><topic>Clothing & dress</topic></subject>
+<subject><topic>Clothing &amp; dress</topic></subject>
 <subject><topic>Clothing and dress</topic></subject>
 <subject><topic>Lace and lace making</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -3281,7 +3281,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name><namePart>unknown</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Portrait photograph of a woman in a white lace dress taken from her left-hand side. Back caption (handwritten in pencil), "Please return. Mrs. J.B. Lauderbach. The Ferger Chattanooga Tenn. Mrs. J.B. Lauderbach, County Collaborator, whose untiring efforts have added much to the Girls' C & P Club work. Please return to Miss V.P. Moore, State Capitol." Devised title.</abstract>
+<abstract>Portrait photograph of a woman in a white lace dress taken from her left-hand side. Back caption (handwritten in pencil), "Please return. Mrs. J.B. Lauderbach. The Ferger Chattanooga Tenn. Mrs. J.B. Lauderbach, County Collaborator, whose untiring efforts have added much to the Girls' C &amp; P Club work. Please return to Miss V.P. Moore, State Capitol." Devised title.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 17.5 x 11.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -3590,7 +3590,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000079</identifier>
-<titleInfo><title>[Virginia P. Moore's] study class in Tazewell (Tennessee) using "Foods & nutrition" as the textbook.</title>
+<titleInfo><title>[Virginia P. Moore's] study class in Tazewell (Tennessee) using "Foods &amp; nutrition" as the textbook.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3603,7 +3603,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Title from back caption. Back caption, handwritten in ink, "This is my study class Tazewell "Foods & nutrition" is our text Book P.V. M." Photograph of six women seated in chairs on a grass lawn next to a house with open textbooks in their hands.</abstract>
+<abstract>Title from back caption. Back caption, handwritten in ink, "This is my study class Tazewell "Foods &amp; nutrition" is our text Book P.V. M." Photograph of six women seated in chairs on a grass lawn next to a house with open textbooks in their hands.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 7 x 9.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -3682,7 +3682,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000081</identifier>
-<titleInfo><title>Group at Spring Sewing & child</title>
+<titleInfo><title>Group at Spring Sewing &amp; child</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -3807,7 +3807,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
@@ -3900,9 +3900,9 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Fairs</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Handicraft</topic></subject>
-<subject><topic>Clothing & dress</topic></subject>
+<subject><topic>Clothing &amp; dress</topic></subject>
 <subject><topic>Home demonstration work -- Exhibitions</topic></subject>
 <subject><topic>4-H clubs -- Exhibitions</topic></subject>
 <subject><topic>null</topic></subject>
@@ -3971,7 +3971,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name><namePart>unknown</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Title from the photograph. Back caption (handwritten in blue ink), "V.P. Moore (white dress & hat) 3rd from left," and in pencil, "1926". Photograph shows Virginia P. Moore standing among a large group of women in front of the entrance of "Twentieth Century Club" building, possibly in Florida.</abstract>
+<abstract>Title from the photograph. Back caption (handwritten in blue ink), "V.P. Moore (white dress &amp; hat) 3rd from left," and in pencil, "1926". Photograph shows Virginia P. Moore standing among a large group of women in front of the entrance of "Twentieth Century Club" building, possibly in Florida.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 29 x 34 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4223,7 +4223,7 @@
 <subject><topic>Boys</topic></subject>
 <subject><topic>School children</topic></subject>
 <subject><topic>Teachers</topic></subject>
-<subject><topic>Rooms & spaces</topic></subject>
+<subject><topic>Rooms &amp; spaces</topic></subject>
 <subject><topic>Rural schools</topic></subject>
 <subject><topic>Rural schools</topic></subject>
 <subject><topic>null</topic></subject>
@@ -4247,7 +4247,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Devised title from the exhibit's banner in the photograph. Includes other banners for Shelby County and Shelby County Tomato Club. Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C & P Co., State Capitol, NASHVILLE, TENN."</abstract>
+<abstract>Devised title from the exhibit's banner in the photograph. Includes other banners for Shelby County and Shelby County Tomato Club. Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C &amp; P Co., State Capitol, NASHVILLE, TENN."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 30.5 x 25.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4266,7 +4266,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Canning and preserving -- Exhibitions.</topic></subject>
@@ -4293,7 +4293,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name><namePart>unknown</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Devised title. Handwritten caption on front of photograph mounting reads "'Tee' V.P. Moore" and points to Virginia P. Moore, standing on the far right in black. Photograph also shows one boy holding up an ear of corn and one girl holding up a can of tomotoes. Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C & P Co., State Capitol, NASHVILLE, TENN."</abstract>
+<abstract>Devised title. Handwritten caption on front of photograph mounting reads "'Tee' V.P. Moore" and points to Virginia P. Moore, standing on the far right in black. Photograph also shows one boy holding up an ear of corn and one girl holding up a can of tomotoes. Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C &amp; P Co., State Capitol, NASHVILLE, TENN."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 25.5 x 30.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4477,7 +4477,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Front caption title from a label numbered 23. Handwritten on back of photograph is "V. P. Moore, State Capitol, Nashville, Tenn." Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C & P Co., State Capitol, NASHVILLE, TENN." Photograph of young women, members of a canning club, and the canned tomatoes they produced.</abstract>
+<abstract>Front caption title from a label numbered 23. Handwritten on back of photograph is "V. P. Moore, State Capitol, Nashville, Tenn." Stamp on back of photograph reads "Miss VIRGINIA P. MOORE, State Agent Girls' C &amp; P Co., State Capitol, NASHVILLE, TENN." Photograph of young women, members of a canning club, and the canned tomatoes they produced.</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 25.5 x 30.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4497,7 +4497,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Canning and preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
@@ -4510,7 +4510,7 @@
 </mods>
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 <identifier type="local">0012_003912_000099</identifier>
-<titleInfo><title>COUNTY EXHIBIT OF GIRLS' C. & P. CLUB OF BENTON COUNTY, NOVEMBER 2, 1912. 126 KINDS OF PRODUCTS CANNED, PRESERVED AND PICKLED, ETC.</title>
+<titleInfo><title>COUNTY EXHIBIT OF GIRLS' C. &amp; P. CLUB OF BENTON COUNTY, NOVEMBER 2, 1912. 126 KINDS OF PRODUCTS CANNED, PRESERVED AND PICKLED, ETC.</title>
 </titleInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cph" type="text">Copyright holder</roleTerm></role></name><typeOfResource>still image</typeOfResource>
 <originInfo>
@@ -4523,7 +4523,7 @@
 <identifier>MS.3821</identifier>
 </relatedItem><name authority="naf" valueURI="http://id.loc.gov/authorities/names/no00073285" type="personal"><namePart>Moore, Virginia P. (Virginia Pearl)</namePart><role><roleTerm authority="marcrelators" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <location><physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<abstract>Front caption title on a label numbered 17, with "TENNESSEE" stamped above the photo. Handwritten on back of photograph is "V. P. Moore, State Capitol, Nashville, Tenn." Stamped three times on back of photograph is "Miss VIRGINIA P. MOORE, State Agent Girls' C & P Co., State Capitol, NASHVILLE, TENN."</abstract>
+<abstract>Front caption title on a label numbered 17, with "TENNESSEE" stamped above the photo. Handwritten on back of photograph is "V. P. Moore, State Capitol, Nashville, Tenn." Stamped three times on back of photograph is "Miss VIRGINIA P. MOORE, State Agent Girls' C &amp; P Co., State Capitol, NASHVILLE, TENN."</abstract>
 <physicalDescription>
 <extent>1 photograph, black and white, 25.5 x 30.5 cm.</extent>
 <digitalOrigin>reformatted digital</digitalOrigin>
@@ -4542,7 +4542,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Canning and preserving -- Exhibitions</topic></subject>
 <subject><topic>Girls -- Societies and clubs</topic></subject>
@@ -4726,7 +4726,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Tomatoes</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Horses</topic></subject>
@@ -4819,7 +4819,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc. -- History</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -4866,7 +4866,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Gardening</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -4913,7 +4913,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
 <subject><topic>Gardens</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Horses</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -5003,7 +5003,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -5048,7 +5048,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Labels</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -5094,7 +5094,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Canned goods</topic></subject>
@@ -5140,7 +5140,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Cows</topic></subject>
 <subject><topic>Awards</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -5186,7 +5186,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Contests</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc. -- History</topic></subject>
@@ -5235,7 +5235,7 @@
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Cows</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Awards</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -5278,7 +5278,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc. -- History</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -5324,7 +5324,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -5368,7 +5368,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Fairs</topic></subject>
@@ -5419,7 +5419,7 @@
 <subject><topic>Boys</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -5463,7 +5463,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Corn</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -5508,7 +5508,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5554,7 +5554,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5646,7 +5646,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -5693,7 +5693,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Boys</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5738,7 +5738,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5784,7 +5784,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -5832,7 +5832,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -5876,7 +5876,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canned foods</topic></subject>
 <subject><topic>Fairs</topic></subject>
@@ -5922,7 +5922,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -5970,7 +5970,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6015,7 +6015,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Gardening</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -6062,7 +6062,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6108,7 +6108,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6152,7 +6152,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6290,7 +6290,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Gardens</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6337,7 +6337,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6382,7 +6382,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6430,7 +6430,7 @@
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6477,7 +6477,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>Boys</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6521,7 +6521,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6564,7 +6564,7 @@
 <subject><geographic>null</geographic></subject>
 <subject><name><namePart>null</namePart></name></subject>
 <subject><name><namePart>null</namePart></name></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
@@ -6615,7 +6615,7 @@
 <subject><topic>Women</topic></subject>
 <subject><topic>Boys</topic></subject>
 <subject><topic>Men</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
 <subject><topic>Home demonstration work -- History</topic></subject>
@@ -6659,7 +6659,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Exhibitions</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
@@ -6704,7 +6704,7 @@
 <subject><name><namePart>null</namePart></name></subject>
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Canned goods</topic></subject>
 <subject><topic>Farm produce</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
@@ -6889,7 +6889,7 @@
 <subject><topic>Girls</topic></subject>
 <subject><topic>null</topic></subject>
 <subject><topic>Women</topic></subject>
-<subject><topic>Canning & preserving</topic></subject>
+<subject><topic>Canning &amp; preserving</topic></subject>
 <subject><topic>Fairs</topic></subject>
 <subject><topic>Canning and preserving -- Societies, etc.</topic></subject>
 <subject><topic>Girls -- Societies and clubs -- History</topic></subject>
