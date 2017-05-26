@@ -5,6 +5,9 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_003912_000001</identifier>
+   <titleInfo>
+      <title>SIXTH ANNUAL MEETING of WOMEN AGENTS _ _ _ _ O _ _ _ _ TO BE HELD AT UNIVERSITY OF TENNESSEE KNOXVILLE, TENN. APRIL 16 - 21, 1917.</title>
+   </titleInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
    <typeOfResource>text</typeOfResource>

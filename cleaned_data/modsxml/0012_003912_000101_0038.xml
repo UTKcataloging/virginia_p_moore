@@ -5,6 +5,9 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_003912_000101_0038</identifier>
+   <titleInfo>
+      <title>Canning party at the home of a Knox Co. club girl.</title>
+   </titleInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
    <name authority="naf"
