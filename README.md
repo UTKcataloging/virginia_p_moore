@@ -23,4 +23,3 @@ This repository includes metadata for the Virginia P. Moore Collection.
 |-- README.md
 ```
 
-## First PR 
