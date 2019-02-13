@@ -10,6 +10,7 @@ This repository includes metadata for the Virginia P. Moore Collection.
 
 ```
 |-- cleaned_data
+    |-- collection_record.xml
 	|-- modsxml
 		|-- record1.xml
 		|-- record2.xml
